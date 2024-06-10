@@ -27,7 +27,7 @@ The dataset used for analysis is stored in a CSV file named `Diwali Sales Data.c
 - `Orders`: Number of orders made by the customer.
 - `Amount`: Amount spent by the customer.
 
-  ## Analysis Steps
+## Analysis Steps
 1. **Data Cleaning and Preprocessing**:
    - Removed irrelevant or empty columns.
    - Handled missing values by dropping rows with null values.
@@ -70,6 +70,18 @@ The dataset used for analysis is stored in a CSV file named `Diwali Sales Data.c
 ### Top-Selling Product Categories:
 - The majority of sold products belong to the Food, Clothing, and Electronics categories.
 - These insights provide valuable information about the top-selling product categories within our dataset.
+
+## Conclusion
+
+### Based on our analysis, we can make the following conclusions:
+
+- The primary group of buyers consists of married women aged between 26 and 35 years.
+- These buyers are predominantly located in Uttar Pradesh, Maharashtra, and Karnataka.
+- They are mostly employed in the IT, Healthcare, and Aviation sectors.
+- Furthermore, they tend to purchase products from the Food, Clothing, and Electronics categories.
+#### These findings provide valuable insights into the specific characteristics and preferences of our active buyers in our dataset.
+
+** Thank You**
 
      
 
